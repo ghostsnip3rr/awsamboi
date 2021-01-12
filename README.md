@@ -1,7 +1,7 @@
 ### Daniel Georgiev known as sk1337
 
 
-Here are some ideas to get you started:
+Some info about me!
 
 - ⭐ I'm 13y/o
 - 🌍 I'm from Bulgaria! 

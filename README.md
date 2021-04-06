@@ -4,6 +4,6 @@
 Some info about me!
 
 - ⭐ 13y/o
-- 🌍 Bulgaria! 
+- 🌍 player.getLocation()
 
 I hope you like my projects!

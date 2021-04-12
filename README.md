@@ -1,4 +1,4 @@
-### Daniel Georgiev known as sk1337
+### Daniel Georgiev known as awsamboi
 
 
 Some info about me!
@@ -6,4 +6,4 @@ Some info about me!
 - ⭐ 13y/o
 - 🌍 player.getLocation()
 
-I hope you like my projects!
+- Owner of SomeHost.XYZ

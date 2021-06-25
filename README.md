@@ -3,6 +3,6 @@
 
 Some info about me!
 
-- ⭐ 13y/o
+- ⭐ 14y/o
 - 🌍 player.getLocation()
 - 🥵 Owner of SomeHost.XYZ

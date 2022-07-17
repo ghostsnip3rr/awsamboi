@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me :
 
- I am a self-taught **developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria.
+ I am a 15 y/o self-taught **developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria.
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I love to relax.
